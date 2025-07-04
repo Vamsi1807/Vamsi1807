@@ -23,8 +23,12 @@ Passionate Full Stack Developer with expertise in Java, and web technologies, cu
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JSP](https://img.shields.io/badge/-JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Testing
+![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,7 +46,7 @@ Passionate Full Stack Developer with expertise in Java, and web technologies, cu
 [![Live Demo](https://img.shields.io/badge/-LIVE-00C851?style=for-the-badge)](https://github.com/Vamsi1807/Shutte_Webproject)
 
 Web application for shuttle court bookings with real-time availability tracking   
-![Tech Stack](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🎨 Personal Portfolio Website
 [![View Code](https://img.shields.io/badge/-CODE-000?style=for-the-badge)](https://github.com/Vamsi1807/My_portfolio) 
@@ -50,6 +54,13 @@ Web application for shuttle court bookings with real-time availability tracking
 
 Responsive portfolio showcasing skills and projects  
 ![Tech Stack](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ✅ AI-Powered ToDo App
+[![View Code](https://img.shields.io/badge/-CODE-000?style=for-the-badge)](https://github.com/Vamsi1807/ToDoApp1) 
+[![Live Demo](https://img.shields.io/badge/-LIVE-00C851?style=for-the-badge)](https://github.com/Vamsi1807/ToDoApp1)
+
+Full-stack task manager with AI suggestions and chat assistant  
+![Tech Stack](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tech Stack](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## 📊 GitHub Stats
 
