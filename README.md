@@ -60,7 +60,7 @@ Responsive portfolio showcasing skills and projects
 [![Live Demo](https://img.shields.io/badge/-LIVE-00C851?style=for-the-badge)](https://github.com/Vamsi1807/ToDoApp1)
 
 Full-stack task manager with AI suggestions and chat assistant  
-![Tech Stack](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tech Stack](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Tech Stack](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)  ![Tech Stack](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## 📊 GitHub Stats
 
