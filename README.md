@@ -5,7 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopavarapu-sri-rama-krishna-vamsi-43517726a/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsigopavarapu07@gmail.com)
 
-Passionate Full Stack Developer with expertise in Java, and web technologies, currently learning SpringBoot. I love building efficient solutions and solving complex problems through code.
+
+Skilled in Java and modern web technologies, with a growing interest in DevOps and cloud deployments. I enjoy building clean, scalable applications and solving real-world problems through code. Always exploring new tools, best practices, and ways to optimize both development and deployment workflows.
 
 ## 🛠️ Technical Skills
 
