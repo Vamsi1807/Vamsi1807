@@ -79,13 +79,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>📊 <a href="https://github.com/Vamsi1807/Student_API_Project">Student API Project</a></h3>
+      <h3>📊 <a href="https://github.com/Vamsi1807/Students_api_project">Student API Project</a></h3>
       <p>A RESTful API designed to manage student records, grades, and attendance.</p>
       <ul>
         <li>Supports CRUD operations for student data.</li>
         <li>Integrated with MongoDB for seamless data management.</li>
       </ul>
-      <p><strong>Technologies:</strong> Java, Spring Boot, MongoDB</p>
+      <p><strong>Technologies:</strong> Java, Spring Boot</p>
     </td>
     <td width="50%">
       <h3>✅ <a href="https://github.com/Vamsi1807/ToDoApp1">AI-Powered To-Do App</a></h3>
