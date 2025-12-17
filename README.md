@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🏸 <a href="https://github.com/Vamsi1807/Shutte_Webproject">Shuttle Court Management System</a></h3>
+      <h3>🏸 <a href="https://github.com/Vamsi1807/Shuttle_maven_project">Shuttle Court Management System</a></h3>
       <p>A web application to manage shuttle court bookings with real-time updates.</p>
       <ul>
         <li>Allows bookings, tracks availability, and supports various payment modes.</li>
